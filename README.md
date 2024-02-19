@@ -58,3 +58,10 @@ After SQL EDA process, we obtain 3 new datasets.
 - The top 10 taxi companies with the highest number of trips are: Flash Cab, Taxi Affiliation Services, Medallion Leasing, Yellow Cab, Taxi Affiliation Service Yellow, Chicago Carriage Cab Corp, City Service, Sun Taxi, Star North Management LLC, and Blue Ribbon Taxi Association Inc.
 - Flash Cab emerges as the market leader due to its significant customer base compared to other companies.
 - The average trip duration from the Loop to O'Hare International Airport differs on rainy Saturdays.
+
+## Future Work
+
+- Customer Segmentation: Segment customers for tailored service improvements based on preferences and behaviors.
+- Route Optimization: Optimize routes to reduce trip duration and enhance efficiency, particularly during peak hours or adverse weather conditions.
+- Expansion Opportunities: Explore new city or regional expansion opportunities through market research and competitive analysis.
+- Weather Prediction Integration: Integrate weather prediction data to anticipate and mitigate the impact of adverse weather on travel, enhancing service reliability.
